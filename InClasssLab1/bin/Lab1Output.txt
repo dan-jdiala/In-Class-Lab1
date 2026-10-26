@@ -1,0 +1,21 @@
+Number of students: 5
+
+-----Students-----
+Student 1: Name: John | Id: 100 | Age: 18
+Student 2: Name: Jane | Id: 101 | Age: 18
+Student 3: Name: Larry | Id: 102 | Age: 20
+Student 4: Name: Karen | Id: 103 | Age: 20
+Student 5: Name: Karl | Id: 104 | Age: 21
+
+-----Students Ages Less Than Upper Age-----
+Name: John | Id: 100 | Age: 18
+Name: Jane | Id: 101 | Age: 18
+
+-----New Students Array-----
+Student 1: Name: John | Id: 100 | Age: 18
+Student 2: Name: Jane | Id: 101 | Age: 18
+Student 3: Name: Larry | Id: 102 | Age: 20
+Student 4: Name: Karen | Id: 103 | Age: 20
+Student 5: Name: Karl | Id: 104 | Age: 21
+Student 6: Name: Rolf | Id: 200 | Age: 22
+Student 7: Name: Dan | Id: 201 | Age: 23
